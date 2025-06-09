@@ -1,2 +1,3 @@
 # comentario
-print("Hola mundo")
+def saludo():
+    print("Hola mundo")
